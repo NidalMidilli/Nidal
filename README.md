@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nydle
+- 👋 Hi, I’m Nidal
 - 👀 I’m interested in software
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
